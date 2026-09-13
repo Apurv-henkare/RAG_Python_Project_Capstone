@@ -25,7 +25,8 @@ This project acts as an **Internal Engine Knowledge Assistant**:
 
 A full video walkthrough showcasing the application, Streamlit web chat UI, CLI interface, and evaluation benchmark is available here:
 
-👉 **[Watch Live Project Demonstration (Google Drive)](https://drive.google.com/file/d/1l4-MTH5MKmjcRnFYH5K3B23TyKG0WOT8/view?usp=sharing)**
+- 📺 **[Watch on YouTube](https://youtu.be/0P7HD4-fRko)**
+- 📁 **[Watch on Google Drive](https://drive.google.com/file/d/1l4-MTH5MKmjcRnFYH5K3B23TyKG0WOT8/view?usp=sharing)**
 
 ---
 
